@@ -1,0 +1,1 @@
+debugger.collection("users").insertOne({name: "John Doe", age: 30, status: "active"})
