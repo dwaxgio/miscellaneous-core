@@ -1,0 +1,15 @@
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\bin\Debug\net8.0\algorithms_and_data_structures.exe
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\bin\Debug\net8.0\algorithms_and_data_structures.deps.json
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\bin\Debug\net8.0\algorithms_and_data_structures.runtimeconfig.json
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\bin\Debug\net8.0\algorithms_and_data_structures.dll
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\bin\Debug\net8.0\algorithms_and_data_structures.pdb
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.AssemblyInfoInputs.cache
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.AssemblyInfo.cs
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.csproj.CoreCompileInputs.cache
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.sourcelink.json
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.dll
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\obj\Debug\net8.0\refint\algorithms_and_data_structures.dll
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.pdb
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\obj\Debug\net8.0\algorithms_and_data_structures.genruntimeconfig.cache
+D:\BAX_ENERGY_PREPARATION\miscellaneous-core\netc#\algorithms_and_data_structures\obj\Debug\net8.0\ref\algorithms_and_data_structures.dll
